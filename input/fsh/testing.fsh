@@ -33,4 +33,4 @@ Title: "Test plan for availability and functionality"
       * sourceReference 
   * testData[+]
     * type = #resource
-    * content = reference(PDQmPatient)
+    * content = Reference(PDQmPatient)
